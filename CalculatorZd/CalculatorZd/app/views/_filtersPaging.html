@@ -1,0 +1,5 @@
+﻿<tr> 
+    <td  data-ng-repeat="page in vm.filterPaging track by $index">
+        <a href="#/{{page.id}}" style="font-size: 13px; font-weight: bold" data-ng-click="vm.filterPageClick(page.id)">{{page.id}}</a>
+    </td>
+</tr>

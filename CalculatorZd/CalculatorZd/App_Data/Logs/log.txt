@@ -1,0 +1,116 @@
+2014-12-10 23:26:42,964 [1] DA.Entities.EntityAdapter ERROR Invalid column name 'TestDataGr_All'.
+ORDER BY items must appear in the select list if SELECT DISTINCT is specified.
+2014-12-10 23:26:44,989 [1] CalculatorZd.MvcApplication INFO  Load dictionaries end
+2014-12-10 23:28:17,255 [1] CalculatorZd.MvcApplication INFO  Application start
+2014-12-10 23:28:17,401 [1] CalculatorZd.MvcApplication INFO  Load dictionaries start
+2014-12-10 23:28:17,997 [1] DA.Entities.EntityAdapter INFO     в BLToolkit.Data.DbManager.OnOperationException(OperationType op, DataException ex)
+   в BLToolkit.Data.DbManager.HandleOperationException(OperationType op, Exception ex)
+   в BLToolkit.Data.DbManager.ExecuteOperation[T](OperationType operationType, Func`1 operation)
+   в BLToolkit.Data.DbManager.ExecuteReaderInternal(CommandBehavior commandBehavior)
+   в BLToolkit.Data.DbManager.ExecuteReader(CommandBehavior commandBehavior)
+   в BLToolkit.Data.DbManager.ExecuteReaderInternal()
+   в BLToolkit.Data.DbManager.ExecuteScalarList(IList list, Type type, NameOrIndexParameter nameOrIndex)
+   в BLToolkit.Data.DbManager.ExecuteScalarList(IList list, Type type)
+   в DA.Accessors.BLToolkitExtension.EntityAccessor.GetEntitiesByID(String columnName, String columnName2, String whereExp, String orderByExp, String dbname)
+   в DA.Entities.EntityAdapter.GetEntitiesByID(String dbName, String columnName, String columnName2, String sWhere, String orderBy) в c:\CalcZd Ч копи€ Ч копи€\CalculatorZd\DA\Entities\EntityAdapter.cs:строка 35
+2014-12-10 23:28:17,997 [1] DA.Entities.EntityAdapter ERROR Invalid column name 'TestDataGr_All'.
+ORDER BY items must appear in the select list if SELECT DISTINCT is specified.
+2014-12-10 23:28:20,044 [1] CalculatorZd.MvcApplication INFO  Load dictionaries end
+2014-12-10 23:29:25,745 [1] CalculatorZd.MvcApplication INFO  Application start
+2014-12-10 23:29:25,874 [1] CalculatorZd.MvcApplication INFO  Load dictionaries start
+2014-12-10 23:29:26,436 [1] DA.Entities.EntityAdapter INFO     в BLToolkit.Data.DbManager.OnOperationException(OperationType op, DataException ex)
+   в BLToolkit.Data.DbManager.HandleOperationException(OperationType op, Exception ex)
+   в BLToolkit.Data.DbManager.ExecuteOperation[T](OperationType operationType, Func`1 operation)
+   в BLToolkit.Data.DbManager.ExecuteReaderInternal(CommandBehavior commandBehavior)
+   в BLToolkit.Data.DbManager.ExecuteReader(CommandBehavior commandBehavior)
+   в BLToolkit.Data.DbManager.ExecuteReaderInternal()
+   в BLToolkit.Data.DbManager.ExecuteScalarList(IList list, Type type, NameOrIndexParameter nameOrIndex)
+   в BLToolkit.Data.DbManager.ExecuteScalarList(IList list, Type type)
+   в DA.Accessors.BLToolkitExtension.EntityAccessor.GetEntitiesByID(String columnName, String columnName2, String whereExp, String orderByExp, String dbname)
+   в DA.Entities.EntityAdapter.GetEntitiesByID(String dbName, String columnName, String columnName2, String sWhere, String orderBy) в c:\CalcZd Ч копи€ Ч копи€\CalculatorZd\DA\Entities\EntityAdapter.cs:строка 35
+2014-12-10 23:29:26,436 [1] DA.Entities.EntityAdapter ERROR Invalid column name 'TestDataGr_All'.
+ORDER BY items must appear in the select list if SELECT DISTINCT is specified.
+2014-12-10 23:29:28,549 [1] CalculatorZd.MvcApplication INFO  Load dictionaries end
+2014-12-10 23:31:01,869 [1] CalculatorZd.MvcApplication INFO  Application start
+2014-12-10 23:31:02,961 [1] CalculatorZd.MvcApplication INFO  Load dictionaries start
+2014-12-10 23:31:03,529 [1] DA.Entities.EntityAdapter INFO     в BLToolkit.Data.DbManager.OnOperationException(OperationType op, DataException ex)
+   в BLToolkit.Data.DbManager.HandleOperationException(OperationType op, Exception ex)
+   в BLToolkit.Data.DbManager.ExecuteOperation[T](OperationType operationType, Func`1 operation)
+   в BLToolkit.Data.DbManager.ExecuteReaderInternal(CommandBehavior commandBehavior)
+   в BLToolkit.Data.DbManager.ExecuteReader(CommandBehavior commandBehavior)
+   в BLToolkit.Data.DbManager.ExecuteReaderInternal()
+   в BLToolkit.Data.DbManager.ExecuteScalarList(IList list, Type type, NameOrIndexParameter nameOrIndex)
+   в BLToolkit.Data.DbManager.ExecuteScalarList(IList list, Type type)
+   в DA.Accessors.BLToolkitExtension.EntityAccessor.GetEntitiesByID(String columnName, String columnName2, String whereExp, String orderByExp, String dbname)
+   в DA.Entities.EntityAdapter.GetEntitiesByID(String dbName, String columnName, String columnName2, String sWhere, String orderBy) в c:\CalcZd Ч копи€ Ч копи€\CalculatorZd\DA\Entities\EntityAdapter.cs:строка 35
+2014-12-10 23:31:03,530 [1] DA.Entities.EntityAdapter ERROR Invalid column name 'TestDataGr_All'.
+ORDER BY items must appear in the select list if SELECT DISTINCT is specified.
+2014-12-10 23:31:05,524 [1] CalculatorZd.MvcApplication INFO  Load dictionaries end
+2014-12-10 23:35:23,703 [1] CalculatorZd.MvcApplication INFO  Application start
+2014-12-10 23:35:25,056 [1] CalculatorZd.MvcApplication INFO  Load dictionaries start
+2014-12-10 23:35:25,880 [1] CalculatorZd.MvcApplication INFO  Load dictionaries end
+2014-12-10 23:36:34,764 [1] CalculatorZd.MvcApplication INFO  Application start
+2014-12-10 23:36:35,803 [1] CalculatorZd.MvcApplication INFO  Load dictionaries start
+2014-12-10 23:36:36,448 [1] CalculatorZd.MvcApplication INFO  Load dictionaries end
+2014-12-10 23:38:00,745 [1] CalculatorZd.MvcApplication INFO  Application start
+2014-12-10 23:38:00,879 [1] CalculatorZd.MvcApplication INFO  Load dictionaries start
+2014-12-10 23:38:01,578 [1] CalculatorZd.MvcApplication INFO  Load dictionaries end
+2014-12-10 23:38:55,822 [1] CalculatorZd.MvcApplication INFO  Application start
+2014-12-10 23:38:55,958 [1] CalculatorZd.MvcApplication INFO  Load dictionaries start
+2014-12-10 23:38:56,670 [1] CalculatorZd.MvcApplication INFO  Load dictionaries end
+2014-12-10 23:40:51,250 [1] CalculatorZd.MvcApplication INFO  Application start
+2014-12-10 23:40:59,623 [1] CalculatorZd.MvcApplication INFO  Load dictionaries start
+2014-12-10 23:41:00,354 [1] CalculatorZd.MvcApplication INFO  Load dictionaries end
+2014-12-10 23:42:00,842 [1] CalculatorZd.MvcApplication INFO  Application start
+2014-12-10 23:42:05,744 [1] CalculatorZd.MvcApplication INFO  Load dictionaries start
+2014-12-10 23:56:21,452 [1] CalculatorZd.MvcApplication INFO  Application start
+2014-12-10 23:56:23,582 [1] CalculatorZd.MvcApplication INFO  Load dictionaries start
+2014-12-10 23:56:24,289 [1] CalculatorZd.MvcApplication INFO  Load dictionaries end
+2014-12-11 00:22:56,497 [1] CalculatorZd.MvcApplication INFO  Application start
+2014-12-11 00:22:57,627 [1] CalculatorZd.MvcApplication INFO  Load dictionaries start
+2014-12-11 00:22:58,402 [1] CalculatorZd.MvcApplication INFO  Load dictionaries end
+2014-12-11 00:30:56,025 [1] CalculatorZd.MvcApplication INFO  Application start
+2014-12-11 00:30:59,778 [1] CalculatorZd.MvcApplication INFO  Load dictionaries start
+2014-12-11 00:31:00,544 [1] CalculatorZd.MvcApplication INFO  Load dictionaries end
+2014-12-11 00:34:53,353 [1] CalculatorZd.MvcApplication INFO  Application start
+2014-12-11 00:34:53,497 [1] CalculatorZd.MvcApplication INFO  Load dictionaries start
+2014-12-11 00:34:54,176 [1] CalculatorZd.MvcApplication INFO  Load dictionaries end
+2014-12-11 00:38:06,657 [1] CalculatorZd.MvcApplication INFO  Application start
+2014-12-11 00:38:08,800 [1] CalculatorZd.MvcApplication INFO  Load dictionaries start
+2014-12-11 00:38:09,488 [1] CalculatorZd.MvcApplication INFO  Load dictionaries end
+2014-12-11 00:38:32,126 [1] CalculatorZd.MvcApplication INFO  Application start
+2014-12-11 00:38:32,276 [1] CalculatorZd.MvcApplication INFO  Load dictionaries start
+2014-12-11 00:38:32,980 [1] CalculatorZd.MvcApplication INFO  Load dictionaries end
+2014-12-11 00:41:09,307 [18] CalculatorZd.MvcApplication INFO  Application start
+2014-12-11 00:41:09,449 [18] CalculatorZd.MvcApplication INFO  Load dictionaries start
+2014-12-11 00:41:10,206 [18] CalculatorZd.MvcApplication INFO  Load dictionaries end
+2014-12-11 00:41:27,157 [1] CalculatorZd.MvcApplication INFO  Application start
+2014-12-11 00:41:29,565 [1] CalculatorZd.MvcApplication INFO  Load dictionaries start
+2014-12-11 00:41:30,244 [1] CalculatorZd.MvcApplication INFO  Load dictionaries end
+2014-12-11 00:44:18,278 [1] CalculatorZd.MvcApplication INFO  Application start
+2014-12-11 00:44:19,423 [1] CalculatorZd.MvcApplication INFO  Load dictionaries start
+2014-12-11 00:44:20,147 [1] CalculatorZd.MvcApplication INFO  Load dictionaries end
+2014-12-11 00:50:15,273 [1] CalculatorZd.MvcApplication INFO  Application start
+2014-12-11 00:50:17,538 [1] CalculatorZd.MvcApplication INFO  Load dictionaries start
+2014-12-11 00:50:18,196 [1] CalculatorZd.MvcApplication INFO  Load dictionaries end
+2014-12-11 00:51:15,545 [1] CalculatorZd.MvcApplication INFO  Application start
+2014-12-11 00:51:16,798 [1] CalculatorZd.MvcApplication INFO  Load dictionaries start
+2014-12-11 00:51:17,586 [1] CalculatorZd.MvcApplication INFO  Load dictionaries end
+2014-12-11 00:54:48,603 [1] CalculatorZd.MvcApplication INFO  Application start
+2014-12-11 00:54:49,708 [1] CalculatorZd.MvcApplication INFO  Load dictionaries start
+2014-12-11 00:54:50,379 [1] CalculatorZd.MvcApplication INFO  Load dictionaries end
+2014-12-11 00:55:34,945 [1] CalculatorZd.MvcApplication INFO  Application start
+2014-12-11 00:55:35,083 [1] CalculatorZd.MvcApplication INFO  Load dictionaries start
+2014-12-11 00:55:35,772 [1] CalculatorZd.MvcApplication INFO  Load dictionaries end
+2014-12-11 01:02:01,446 [1] CalculatorZd.MvcApplication INFO  Application start
+2014-12-11 01:02:01,591 [1] CalculatorZd.MvcApplication INFO  Load dictionaries start
+2014-12-11 01:02:02,269 [1] CalculatorZd.MvcApplication INFO  Load dictionaries end
+2014-12-11 01:04:28,117 [1] CalculatorZd.MvcApplication INFO  Application start
+2014-12-11 01:04:30,032 [1] CalculatorZd.MvcApplication INFO  Load dictionaries start
+2014-12-11 01:04:30,698 [1] CalculatorZd.MvcApplication INFO  Load dictionaries end
+2014-12-11 01:06:44,581 [1] CalculatorZd.MvcApplication INFO  Application start
+2014-12-11 01:06:47,678 [1] CalculatorZd.MvcApplication INFO  Load dictionaries start
+2014-12-11 01:06:48,315 [1] CalculatorZd.MvcApplication INFO  Load dictionaries end
+2014-12-11 02:51:53,756 [1] CalculatorZd.MvcApplication INFO  Application start
+2014-12-11 02:51:56,926 [1] CalculatorZd.MvcApplication INFO  Load dictionaries start
+2014-12-11 02:51:57,629 [1] CalculatorZd.MvcApplication INFO  Load dictionaries end

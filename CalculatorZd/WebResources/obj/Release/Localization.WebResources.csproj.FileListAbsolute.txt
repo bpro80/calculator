@@ -1,0 +1,18 @@
+C:\CalcZd\CalculatorZd\WebResources\bin\Localization.WebResources.dll.config
+C:\CalcZd\CalculatorZd\WebResources\bin\Localization.WebResources.dll
+C:\CalcZd\CalculatorZd\WebResources\bin\Localization.WebResources.pdb
+C:\CalcZd\CalculatorZd\WebResources\obj\Release\Localization.WebResources.WebResources.AccountResource.resources
+C:\CalcZd\CalculatorZd\WebResources\obj\Release\Localization.WebResources.Common.Strings.resources
+C:\CalcZd\CalculatorZd\WebResources\obj\Release\Localization.WebResources.csproj.GenerateResource.Cache
+C:\CalcZd\CalculatorZd\WebResources\obj\Release\Localization.WebResources.dll
+C:\CalcZd\CalculatorZd\WebResources\obj\Release\Localization.WebResources.pdb
+C:\CalcZd — копия — копия\CalculatorZd\WebResources\bin\Localization.WebResources.dll.config
+C:\CalcZd — копия — копия\CalculatorZd\WebResources\bin\Localization.WebResources.dll
+C:\CalcZd — копия — копия\CalculatorZd\WebResources\bin\Localization.WebResources.pdb
+C:\CalcZd — копия — копия\CalculatorZd\WebResources\obj\Release\Localization.WebResources.csprojResolveAssemblyReference.cache
+C:\CalcZd — копия — копия\CalculatorZd\WebResources\obj\Release\Localization.WebResources.WebResources.AccountResource.resources
+C:\CalcZd — копия — копия\CalculatorZd\WebResources\obj\Release\Localization.WebResources.Common.Strings.resources
+C:\CalcZd — копия — копия\CalculatorZd\WebResources\obj\Release\Localization.WebResources.csproj.GenerateResource.Cache
+C:\CalcZd — копия — копия\CalculatorZd\WebResources\obj\Release\Localization.WebResources.dll
+C:\CalcZd — копия — копия\CalculatorZd\WebResources\obj\Release\Localization.WebResources.pdb
+C:\CalcZd\CalculatorZd\WebResources\obj\Release\Localization.WebResources.csprojResolveAssemblyReference.cache

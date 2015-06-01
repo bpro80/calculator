@@ -1,0 +1,5 @@
+C:\CalcZd\CalculatorZd\PortableTestLibrary\bin\Debug\PortableTestLibrary.dll
+C:\CalcZd\CalculatorZd\PortableTestLibrary\bin\Debug\PortableTestLibrary.pdb
+C:\CalcZd\CalculatorZd\PortableTestLibrary\obj\Debug\PortableTestLibrary.csprojResolveAssemblyReference.cache
+C:\CalcZd\CalculatorZd\PortableTestLibrary\obj\Debug\PortableTestLibrary.dll
+C:\CalcZd\CalculatorZd\PortableTestLibrary\obj\Debug\PortableTestLibrary.pdb

@@ -1,0 +1,13 @@
+C:\CalculatorZd\Configuration\bin\Debug\Configuration.dll
+C:\CalculatorZd\Configuration\bin\Debug\Configuration.pdb
+C:\CalculatorZd\Configuration\obj\Debug\Configuration.dll
+C:\CalculatorZd\Configuration\obj\Debug\Configuration.pdb
+C:\CalcZd — копия — копия\CalculatorZd\Configuration\bin\Debug\Configuration.dll
+C:\CalcZd — копия — копия\CalculatorZd\Configuration\bin\Debug\Configuration.pdb
+C:\CalcZd — копия — копия\CalculatorZd\Configuration\obj\Debug\Configuration.dll
+C:\CalcZd — копия — копия\CalculatorZd\Configuration\obj\Debug\Configuration.pdb
+C:\CalcZd — копия — копия\CalculatorZd\Configuration\obj\Debug\Configuration.csprojResolveAssemblyReference.cache
+C:\CalcZd\CalculatorZd\Configuration\bin\Debug\Configuration.dll
+C:\CalcZd\CalculatorZd\Configuration\bin\Debug\Configuration.pdb
+C:\CalcZd\CalculatorZd\Configuration\obj\Debug\Configuration.dll
+C:\CalcZd\CalculatorZd\Configuration\obj\Debug\Configuration.pdb

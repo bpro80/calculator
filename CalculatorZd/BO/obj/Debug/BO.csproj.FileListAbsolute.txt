@@ -1,0 +1,20 @@
+C:\CalculatorZd\BO\bin\Debug\BO.dll
+C:\CalculatorZd\BO\bin\Debug\BO.pdb
+C:\CalculatorZd\BO\bin\Debug\BLToolkit.Data.4.dll
+C:\CalculatorZd\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\CalculatorZd\BO\obj\Debug\BO.dll
+C:\CalculatorZd\BO\obj\Debug\BO.pdb
+C:\CalcZd — копия — копия\CalculatorZd\BO\bin\Debug\BO.dll
+C:\CalcZd — копия — копия\CalculatorZd\BO\bin\Debug\BO.pdb
+C:\CalcZd — копия — копия\CalculatorZd\BO\bin\Debug\Newtonsoft.Json.dll
+C:\CalcZd — копия — копия\CalculatorZd\BO\bin\Debug\Newtonsoft.Json.xml
+C:\CalcZd — копия — копия\CalculatorZd\BO\obj\Debug\BO.dll
+C:\CalcZd — копия — копия\CalculatorZd\BO\obj\Debug\BO.pdb
+C:\CalcZd — копия — копия\CalculatorZd\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\CalcZd\CalculatorZd\BO\bin\Debug\BO.dll
+C:\CalcZd\CalculatorZd\BO\bin\Debug\BO.pdb
+C:\CalcZd\CalculatorZd\BO\bin\Debug\Newtonsoft.Json.dll
+C:\CalcZd\CalculatorZd\BO\bin\Debug\Newtonsoft.Json.xml
+C:\CalcZd\CalculatorZd\BO\obj\Debug\BO.dll
+C:\CalcZd\CalculatorZd\BO\obj\Debug\BO.pdb
+C:\CalcZd\CalculatorZd\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache

@@ -1,0 +1,54 @@
+C:\CalcZd\CalculatorZd\DA\obj\Release\DA.csprojResolveAssemblyReference.cache
+C:\CalcZd\CalculatorZd\DA\bin\Release\DA.dll
+C:\CalcZd\CalculatorZd\DA\bin\Release\DA.pdb
+C:\CalcZd\CalculatorZd\DA\bin\Release\BO.dll
+C:\CalcZd\CalculatorZd\DA\bin\Release\Common.Api.dll
+C:\CalcZd\CalculatorZd\DA\bin\Release\Configuration.dll
+C:\CalcZd\CalculatorZd\DA\bin\Release\Localization.WebResources.dll
+C:\CalcZd\CalculatorZd\DA\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\CalcZd\CalculatorZd\DA\bin\Release\BO.pdb
+C:\CalcZd\CalculatorZd\DA\bin\Release\Common.Api.pdb
+C:\CalcZd\CalculatorZd\DA\bin\Release\Configuration.pdb
+C:\CalcZd\CalculatorZd\DA\bin\Release\Localization.WebResources.pdb
+C:\CalcZd\CalculatorZd\DA\obj\Release\DA.dll
+C:\CalcZd\CalculatorZd\DA\obj\Release\DA.pdb
+C:\CalcZd\CalculatorZd\DA\bin\Release\Newtonsoft.Json.dll
+C:\CalcZd\CalculatorZd\DA\bin\Release\Newtonsoft.Json.xml
+C:\CalcZd\CalculatorZd\DA\bin\Release\log4net.dll
+C:\CalcZd\CalculatorZd\DA\bin\Release\log4net.xml
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Release\DA.dll
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Release\DA.pdb
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Release\BO.dll
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Release\Common.Api.dll
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Release\Configuration.dll
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Release\log4net.dll
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Release\Newtonsoft.Json.dll
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Release\Localization.WebResources.dll
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Release\BO.pdb
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Release\Common.Api.pdb
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Release\Configuration.pdb
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Release\log4net.xml
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Release\Localization.WebResources.pdb
+C:\CalcZd — копия — копия\CalculatorZd\DA\obj\Release\DA.csprojResolveAssemblyReference.cache
+C:\CalcZd — копия — копия\CalculatorZd\DA\obj\Release\DA.dll
+C:\CalcZd — копия — копия\CalculatorZd\DA\obj\Release\DA.pdb
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Release\ExcelApi.dll
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Release\NetOffice.dll
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Release\OfficeApi.dll
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Release\VBIDEApi.dll
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Release\ExcelApi.xml
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Release\NetOffice.xml
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Release\OfficeApi.xml
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Release\VBIDEApi.xml
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Release\Newtonsoft.Json.xml
+C:\CalcZd\CalculatorZd\DA\bin\Release\ExcelApi.dll
+C:\CalcZd\CalculatorZd\DA\bin\Release\NetOffice.dll
+C:\CalcZd\CalculatorZd\DA\bin\Release\OfficeApi.dll
+C:\CalcZd\CalculatorZd\DA\bin\Release\VBIDEApi.dll
+C:\CalcZd\CalculatorZd\DA\bin\Release\ExcelApi.xml
+C:\CalcZd\CalculatorZd\DA\bin\Release\NetOffice.xml
+C:\CalcZd\CalculatorZd\DA\bin\Release\OfficeApi.xml
+C:\CalcZd\CalculatorZd\DA\bin\Release\VBIDEApi.xml
+C:\CalcZd\CalculatorZd\DA\bin\Release\ExcelProcessor.dll
+C:\CalcZd\CalculatorZd\DA\bin\Release\ExcelProcessor.pdb

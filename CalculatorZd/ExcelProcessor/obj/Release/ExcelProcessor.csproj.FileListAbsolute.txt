@@ -1,0 +1,17 @@
+C:\CalcZd\CalculatorZd\ExcelProcessor\bin\Release\ExcelProcessor.dll
+C:\CalcZd\CalculatorZd\ExcelProcessor\bin\Release\ExcelProcessor.pdb
+C:\CalcZd\CalculatorZd\ExcelProcessor\obj\Release\ExcelProcessor.csprojResolveAssemblyReference.cache
+C:\CalcZd\CalculatorZd\ExcelProcessor\obj\Release\ExcelProcessor.dll
+C:\CalcZd\CalculatorZd\ExcelProcessor\obj\Release\ExcelProcessor.pdb
+C:\CalcZd\CalculatorZd\ExcelProcessor\bin\Release\Common.Api.dll
+C:\CalcZd\CalculatorZd\ExcelProcessor\bin\Release\log4net.dll
+C:\CalcZd\CalculatorZd\ExcelProcessor\bin\Release\BO.dll
+C:\CalcZd\CalculatorZd\ExcelProcessor\bin\Release\Localization.WebResources.dll
+C:\CalcZd\CalculatorZd\ExcelProcessor\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\CalcZd\CalculatorZd\ExcelProcessor\bin\Release\Newtonsoft.Json.dll
+C:\CalcZd\CalculatorZd\ExcelProcessor\bin\Release\Common.Api.pdb
+C:\CalcZd\CalculatorZd\ExcelProcessor\bin\Release\log4net.xml
+C:\CalcZd\CalculatorZd\ExcelProcessor\bin\Release\BO.pdb
+C:\CalcZd\CalculatorZd\ExcelProcessor\bin\Release\Localization.WebResources.pdb
+C:\CalcZd\CalculatorZd\ExcelProcessor\bin\Release\Newtonsoft.Json.xml
+C:\CalcZd\CalculatorZd\ExcelProcessor\bin\Release\DocumentFormat.OpenXml.dll

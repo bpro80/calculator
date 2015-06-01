@@ -1,0 +1,171 @@
+﻿@using System.Web.UI.WebControls
+@model CalculatorZd.Models.AddFirmPaymentViewModel
+
+@{
+    ViewBag.Title = "Добавить платеж";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+@Scripts.Render("~/bundles/datepicker")
+
+<script>
+
+    $(function () {
+        jQuery(function ($) {
+            $.datepicker.setDefaults(
+                $.datepicker.regional['ru']);
+        });
+
+        $('#PayDate').datepicker();
+        $("#dialog").hide();
+        $('#aSelectFirm').click(function () {
+            $("#dialog").dialog({
+                AutoOpen: false,
+                height: 600,
+                width: 850,
+                modal: true, title: 'Выбрать фирму'
+            });
+        });
+
+
+    });
+    var g_prevFirmId = -1;
+    var g_firmName = "";
+    function onFirmSelect(firmId, firmName) {
+        g_firmName = firmName;
+        var id;
+        if (g_prevFirmId != -1) {
+            id = '#' + g_prevFirmId;
+            $(id).attr('style', 'background-color:white');
+        }
+
+        id = '#' + firmId;
+        $(id).attr('style', 'background-color:grey');
+        g_prevFirmId = firmId;
+        $('#FirmID').val(firmId);
+    }
+
+    function onOkDlg() {
+        $('#spanfirmName').text(g_firmName);
+        $('#FirmName').val(g_firmName);
+
+        $("#dialog").dialog('close');
+        g_firmName = "";
+    }
+
+    function onCancelDlg() {
+        $("#dialog").dialog('close');
+    }
+
+</script>
+@using (Html.BeginForm("CreatePayment", "Admin"))
+{
+    @Html.AntiForgeryToken()
+
+    <fieldset class="form-horizontal">
+        <legend>Добавление платежа</legend>
+
+
+        <div class="control-group">
+            @Html.LabelFor(model => model.FirmName, "Название фирмы", new { @class = "control-label", @style = "font-weight:bold" })
+          
+            <div class="controls">
+                <span id="spanfirmName" style="font-size: 18px"></span>
+            </div>
+            <br/>
+            <div class="controls">
+                <a id="aSelectFirm" href="#">Выбрать фирму</a>
+                @Html.ValidationMessageFor(model => model.FirmName, null, new { @class = "help-inline" })
+
+
+            </div>
+        </div>
+        <div class="control-group">
+            @Html.LabelFor(model => model.Summa,"Сумма оплаты", new { @class = "control-label", @style="font-weight:bold" })
+            <div class="controls">
+                @Html.EditorFor(model => model.Summa)
+                @Html.ValidationMessageFor(model => model.Summa, null, new { @class = "help-inline", @maxlength = "10" })
+            </div>
+        </div>
+
+        <div class="control-group">
+            @Html.LabelFor(model => model.PayDate,"Дата оплаты", new { @class = "control-label", @style="font-weight:bold" })
+            <div class="controls">
+                <input type="text" name="PayDate" id="PayDate" />
+                @Html.ValidationMessageFor(model => model.PayDate,null, new { @class = "help-inline",@maxlength="8" })
+            </div>
+        </div>
+
+        <div class="control-group">
+            @Html.LabelFor(model => model.PayTypeID, "Способ оплаты", new { @class = "control-label", @style = "font-weight:bold" })
+            <div class="controls">
+                <select name="PayTypeID" id="PayTypeID">
+                    <option value="1">Безналичный платеж</option>
+                    <option value="2">Интернет платеж</option>
+                    <option value="3">Наличный платеж</option>
+                </select>
+            </div>
+        </div>
+        <div class="control-group">
+            @Html.LabelFor(model => model.Comments, "Детальная информация", new { @class = "control-label", @style = "font-weight:bold" })
+            <div class="controls">
+                <textarea   name="Comments" id="Comments" cols="80" rows="10" style="width:300px"   ></textarea>
+                @Html.ValidationMessageFor(model => model.Comments, null, new { @class = "help-inline" })
+            </div>
+        </div>
+        <div class="form-actions no-color">
+            <input type="submit" value="Добавить платеж" class="btn" />
+        </div>
+
+    </fieldset>
+    @Html.Hidden("FirmID")
+    @Html.Hidden("FirmName")
+}
+
+<div id="dialog">
+    <div class="modal-header">
+        <h3 class="modal-title">Выбрать фирму</h3>
+    </div>
+    <div class="modal-body" style="height: 450px; overflow:auto;">
+        <!----<input type="text" id="firmNameField" style="width:400px;" />-->
+        @if (Model.ActiveFirms != null)
+        {
+        <table class="table  table-bordered table-condensed " style="width:100%">
+            <thead>
+                <tr>
+                    <th data-field="name" class="col-md-6">
+                        <i class="glyphicon glyphicon-star"></i>
+                        Название фирмы
+                    </th>
+                    <th data-field="name" class="col-md-6">
+                        <i class="glyphicon glyphicon-star"></i>
+                        ИНН
+                    </th>
+                    <th data-field="name" class="col-md-6">
+                        <i class="glyphicon glyphicon-star"></i>
+                        Адрес
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.ActiveFirms)
+                {
+                    <tr id='@item.ID' data-index="@item.ID" style="cursor:pointer;" onclick="onFirmSelect('@item.ID','@item.FirmName')">
+                        <td>@item.FirmName</td>
+                        <td style="">@item.INN</td>
+                        <td style="">@item.Address</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+            
+        }
+
+    </div>
+
+    <div class="modal-footer">
+        <button class="btn btn-primary" onclick="onOkDlg()">Выбрать</button>
+        <button class="btn btn-warning" onclick="onCancelDlg()">Отмена</button>
+    </div>
+
+</div>
+

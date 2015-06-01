@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>@ViewBag.Title</title>
+        <title></title>
+        @Styles.Render("~/Content/css")
+        @Scripts.Render("~/bundles/modernizr")
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/jquery-ui")
+        <link rel="stylesheet" href="//code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css">
+        
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/jquery-ui")
+        @Scripts.Render("~/bundles/datepicker")
+
+    </head>
+    <body>
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="navbar-inner">
+                <div class="container">
+                    <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <div class="nav-collapse collapse" style="display: inline;">
+                        <ul class="nav">
+                            <li>@Html.ActionLink("Главная", "Index", "Home")</li>
+                            <li>@Html.ActionLink("Калькулятор", "Index", "Calculator")</li>
+                            @if (User.Identity.IsAuthenticated)
+                        {
+                                <li>@Html.ActionLink("Отчеты", "index", "FirmReport")</li>
+                        }
+                            @if (User.Identity.IsAuthenticated && (User.IsInRole("admin") || User.IsInRole("god")))
+                        {
+                                <li>@Html.ActionLink("Админка", "index", "Admin")</li>
+                        }
+                            @if (User.Identity.IsAuthenticated)
+                        {
+                                <li>@Html.ActionLink("Сообщить об ошибке", "Index", "FeedBack")</li>
+                        }
+                            @if (User.Identity.IsAuthenticated && (User.IsInRole("admin") || User.IsInRole("god")))
+                        {
+                                <li>@Html.ActionLink("Сообщения", "Index", "AdminFeedBack")</li>
+                        }
+                        </ul>
+                        @Html.Partial("_LoginPartial")
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+
+            <div>
+                <br />
+                <strong>
+                    @Html.ActionLink("Просмотр платежей", "FirmPayments", "Admin")
+                </strong>
+                <br /><br /><strong>
+                    @Html.ActionLink("Добавить платеж", "AddFirmPayment", "Admin")
+                </strong>
+                <br /><br /><strong>
+                    @Html.ActionLink("Запросы", "Index", "Admin")
+                </strong>
+                <br />
+                <br />
+                @RenderBody()
+            </div>
+</body>
+</html>

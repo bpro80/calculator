@@ -1,0 +1,99 @@
+C:\CalculatorZd\BO.Implementation\bin\Debug\BO.Implementation.dll
+C:\CalculatorZd\BO.Implementation\bin\Debug\BO.Implementation.pdb
+C:\CalculatorZd\BO.Implementation\bin\Debug\Configuration.dll
+C:\CalculatorZd\BO.Implementation\bin\Debug\Configuration.pdb
+C:\CalculatorZd\BO.Implementation\obj\Debug\BO.Implementation.csprojResolveAssemblyReference.cache
+C:\CalculatorZd\BO.Implementation\obj\Debug\BO.Implementation.dll
+C:\CalculatorZd\BO.Implementation\obj\Debug\BO.Implementation.pdb
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\BO.Implementation.dll
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\BO.Implementation.pdb
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\BO.dll
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\Common.Api.dll
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\Configuration.dll
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\DA.dll
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\Newtonsoft.Json.dll
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\log4net.dll
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\Localization.WebResources.dll
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\BLToolkit.Data.4.dll
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\ExcelApi.dll
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\NetOffice.dll
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\BL.dll
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\OfficeApi.dll
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\VBIDEApi.dll
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\BO.pdb
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\Common.Api.pdb
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\Configuration.pdb
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\DA.pdb
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\Newtonsoft.Json.xml
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\log4net.xml
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\Localization.WebResources.pdb
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\ExcelApi.xml
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\NetOffice.xml
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\BL.pdb
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\OfficeApi.xml
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\VBIDEApi.xml
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\obj\Debug\BO.Implementation.csprojResolveAssemblyReference.cache
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\obj\Debug\BO.Implementation.dll
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\obj\Debug\BO.Implementation.pdb
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\Antlr3.Runtime.dll
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\WebGrease.dll
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\Antlr3.Runtime.pdb
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\Utils.dll
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\System.Web.Mvc.dll
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\System.Web.Razor.dll
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\System.Web.WebPages.Razor.dll
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\System.Web.WebPages.dll
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\Utils.pdb
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\System.Web.Mvc.xml
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\System.Web.Razor.xml
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\System.Web.WebPages.Razor.xml
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\System.Web.WebPages.xml
+C:\CalcZd — копия — копия\CalculatorZd\BO.Implementation\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\CalcZd\CalculatorZd\BO.Implementation\obj\Debug\BO.Implementation.csprojResolveAssemblyReference.cache
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\BO.Implementation.dll
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\BO.Implementation.pdb
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\Antlr3.Runtime.dll
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\BO.dll
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\Common.Api.dll
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\Configuration.dll
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\DA.dll
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\log4net.dll
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\Newtonsoft.Json.dll
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\WebGrease.dll
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\Localization.WebResources.dll
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\BLToolkit.Data.4.dll
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\ExcelApi.dll
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\NetOffice.dll
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\BL.dll
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\OfficeApi.dll
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\VBIDEApi.dll
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\BO.pdb
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\Common.Api.pdb
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\Configuration.pdb
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\DA.pdb
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\Antlr3.Runtime.pdb
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\log4net.xml
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\Newtonsoft.Json.xml
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\Localization.WebResources.pdb
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\ExcelApi.xml
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\NetOffice.xml
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\BL.pdb
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\OfficeApi.xml
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\VBIDEApi.xml
+C:\CalcZd\CalculatorZd\BO.Implementation\obj\Debug\BO.Implementation.dll
+C:\CalcZd\CalculatorZd\BO.Implementation\obj\Debug\BO.Implementation.pdb
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\Utils.dll
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\System.Web.Razor.dll
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\System.Web.WebPages.Razor.dll
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\System.Web.WebPages.dll
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\Utils.pdb
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\System.Web.Razor.xml
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\System.Web.WebPages.Razor.xml
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\System.Web.WebPages.xml
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\ExcelProcessor.dll
+C:\CalcZd\CalculatorZd\BO.Implementation\bin\Debug\ExcelProcessor.pdb

@@ -1,0 +1,73 @@
+C:\CalculatorZd\DA\obj\Debug\DA.csprojResolveAssemblyReference.cache
+C:\CalculatorZd\DA\bin\Debug\DA.dll
+C:\CalculatorZd\DA\bin\Debug\DA.pdb
+C:\CalculatorZd\DA\bin\Debug\BLToolkit.4.dll
+C:\CalculatorZd\DA\bin\Debug\BO.dll
+C:\CalculatorZd\DA\bin\Debug\Common.Api.dll
+C:\CalculatorZd\DA\bin\Debug\Configuration.dll
+C:\CalculatorZd\DA\bin\Debug\BLToolkit.Data.4.dll
+C:\CalculatorZd\DA\bin\Debug\Localization.WebResources.dll
+C:\CalculatorZd\DA\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\CalculatorZd\DA\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\CalculatorZd\DA\bin\Debug\BO.pdb
+C:\CalculatorZd\DA\bin\Debug\Common.Api.pdb
+C:\CalculatorZd\DA\bin\Debug\Configuration.pdb
+C:\CalculatorZd\DA\bin\Debug\Localization.WebResources.pdb
+C:\CalculatorZd\DA\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\CalculatorZd\DA\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\CalculatorZd\DA\obj\Debug\DA.dll
+C:\CalculatorZd\DA\obj\Debug\DA.pdb
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Debug\DA.dll
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Debug\DA.pdb
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Debug\BO.dll
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Debug\Common.Api.dll
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Debug\Configuration.dll
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Debug\ExcelApi.dll
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Debug\log4net.dll
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Debug\NetOffice.dll
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Debug\OfficeApi.dll
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Debug\VBIDEApi.dll
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Debug\Newtonsoft.Json.dll
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Debug\Localization.WebResources.dll
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Debug\BO.pdb
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Debug\Common.Api.pdb
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Debug\Configuration.pdb
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Debug\ExcelApi.xml
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Debug\log4net.xml
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Debug\NetOffice.xml
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Debug\OfficeApi.xml
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Debug\VBIDEApi.xml
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Debug\Newtonsoft.Json.xml
+C:\CalcZd — копия — копия\CalculatorZd\DA\bin\Debug\Localization.WebResources.pdb
+C:\CalcZd — копия — копия\CalculatorZd\DA\obj\Debug\DA.csprojResolveAssemblyReference.cache
+C:\CalcZd — копия — копия\CalculatorZd\DA\obj\Debug\DA.dll
+C:\CalcZd — копия — копия\CalculatorZd\DA\obj\Debug\DA.pdb
+C:\CalcZd\CalculatorZd\DA\obj\Debug\DA.csprojResolveAssemblyReference.cache
+C:\CalcZd\CalculatorZd\DA\bin\Debug\DA.dll
+C:\CalcZd\CalculatorZd\DA\bin\Debug\DA.pdb
+C:\CalcZd\CalculatorZd\DA\bin\Debug\BO.dll
+C:\CalcZd\CalculatorZd\DA\bin\Debug\Common.Api.dll
+C:\CalcZd\CalculatorZd\DA\bin\Debug\Configuration.dll
+C:\CalcZd\CalculatorZd\DA\bin\Debug\ExcelApi.dll
+C:\CalcZd\CalculatorZd\DA\bin\Debug\log4net.dll
+C:\CalcZd\CalculatorZd\DA\bin\Debug\NetOffice.dll
+C:\CalcZd\CalculatorZd\DA\bin\Debug\OfficeApi.dll
+C:\CalcZd\CalculatorZd\DA\bin\Debug\VBIDEApi.dll
+C:\CalcZd\CalculatorZd\DA\bin\Debug\Newtonsoft.Json.dll
+C:\CalcZd\CalculatorZd\DA\bin\Debug\Localization.WebResources.dll
+C:\CalcZd\CalculatorZd\DA\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\CalcZd\CalculatorZd\DA\bin\Debug\BO.pdb
+C:\CalcZd\CalculatorZd\DA\bin\Debug\Common.Api.pdb
+C:\CalcZd\CalculatorZd\DA\bin\Debug\Configuration.pdb
+C:\CalcZd\CalculatorZd\DA\bin\Debug\ExcelApi.xml
+C:\CalcZd\CalculatorZd\DA\bin\Debug\log4net.xml
+C:\CalcZd\CalculatorZd\DA\bin\Debug\NetOffice.xml
+C:\CalcZd\CalculatorZd\DA\bin\Debug\OfficeApi.xml
+C:\CalcZd\CalculatorZd\DA\bin\Debug\VBIDEApi.xml
+C:\CalcZd\CalculatorZd\DA\bin\Debug\Newtonsoft.Json.xml
+C:\CalcZd\CalculatorZd\DA\bin\Debug\Localization.WebResources.pdb
+C:\CalcZd\CalculatorZd\DA\obj\Debug\DA.dll
+C:\CalcZd\CalculatorZd\DA\obj\Debug\DA.pdb
+C:\CalcZd\CalculatorZd\DA\bin\Debug\ExcelProcessor.dll
+C:\CalcZd\CalculatorZd\DA\bin\Debug\ExcelProcessor.pdb

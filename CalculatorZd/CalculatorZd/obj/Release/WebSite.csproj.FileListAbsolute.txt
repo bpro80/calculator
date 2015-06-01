@@ -1,0 +1,151 @@
+C:\CalcZd\CalculatorZd\CalculatorZd\obj\Release\WebSite.csprojResolveAssemblyReference.cache
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\CalculatorZd.dll.config
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\CalculatorZd.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\CalculatorZd.pdb
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\Autofac.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\Autofac.Integration.WebApi.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\BO.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\BO.Implementation.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\Common.Api.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\DA.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\EntityFramework.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\EntityFramework.SqlServer.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\Localization.WebResources.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\Microsoft.AspNet.Identity.Core.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\Microsoft.Owin.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\Microsoft.Owin.Security.Forms.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\Newtonsoft.Json.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\Owin.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\System.Web.Http.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\System.Web.Http.WebHost.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\System.Web.Mvc.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\System.Web.Optimization.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\System.Web.WebPages.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\System.Web.WebPages.Razor.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\Utils.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\Configuration.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\BLToolkit.Data.4.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\System.Web.WebPages.Deployment.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\BO.Implementation.pdb
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\BO.pdb
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\Common.Api.pdb
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\DA.pdb
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\Utils.pdb
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\Localization.WebResources.pdb
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\Autofac.xml
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\Autofac.Integration.WebApi.xml
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\EntityFramework.xml
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\EntityFramework.SqlServer.xml
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\Microsoft.Owin.xml
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\Microsoft.Owin.Security.Forms.xml
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\Newtonsoft.Json.xml
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\System.Web.Http.xml
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\System.Web.Http.WebHost.xml
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\System.Web.Mvc.xml
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\System.Web.WebPages.xml
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\System.Web.WebPages.Razor.xml
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\Configuration.pdb
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\System.Web.WebPages.Deployment.xml
+C:\CalcZd\CalculatorZd\CalculatorZd\obj\Release\CalculatorZd.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\obj\Release\CalculatorZd.pdb
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\log4net.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\log4net.xml
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\CalculatorZd.dll.config
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\CalculatorZd.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\CalculatorZd.pdb
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\Antlr3.Runtime.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\Autofac.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\Autofac.Integration.WebApi.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\BO.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\BO.Implementation.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\Common.Api.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\DA.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\EntityFramework.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\EntityFramework.SqlServer.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\Localization.WebResources.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\log4net.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\Microsoft.AspNet.Identity.Core.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\Microsoft.Owin.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\Microsoft.Owin.Security.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\Microsoft.Owin.Security.Forms.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\Newtonsoft.Json.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\Owin.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\System.Net.Http.Formatting.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\System.Web.Http.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\System.Web.Http.WebHost.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\System.Web.Mvc.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\System.Web.Optimization.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\System.Web.Razor.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\System.Web.WebPages.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\System.Web.WebPages.Razor.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\Utils.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\WebGrease.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\Configuration.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\BLToolkit.Data.4.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\System.Web.WebPages.Deployment.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\BO.Implementation.pdb
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\BO.pdb
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\Common.Api.pdb
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\DA.pdb
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\Utils.pdb
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\Localization.WebResources.pdb
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\Antlr3.Runtime.pdb
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\Autofac.xml
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\Autofac.Integration.WebApi.xml
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\EntityFramework.xml
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\EntityFramework.SqlServer.xml
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\log4net.xml
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\Microsoft.Owin.xml
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\Microsoft.Owin.Security.xml
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\Microsoft.Owin.Security.Forms.xml
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\Newtonsoft.Json.xml
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\System.Net.Http.Formatting.xml
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\System.Web.Http.xml
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\System.Web.Http.WebHost.xml
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\System.Web.Optimization.xml
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\System.Web.Razor.xml
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\System.Web.Mvc.xml
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\System.Web.WebPages.xml
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\System.Web.WebPages.Razor.xml
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\Configuration.pdb
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\System.Web.WebPages.Deployment.xml
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\obj\Release\WebSite.csprojResolveAssemblyReference.cache
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\obj\Release\CalculatorZd.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\obj\Release\CalculatorZd.pdb
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\ExcelApi.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\NetOffice.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\OfficeApi.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\VBIDEApi.dll
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\ExcelApi.xml
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\NetOffice.xml
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\OfficeApi.xml
+C:\CalcZd — копия — копия\CalculatorZd\CalculatorZd\bin\VBIDEApi.xml
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\Antlr3.Runtime.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\Microsoft.Owin.Security.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\System.Net.Http.Formatting.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\System.Web.Razor.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\WebGrease.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\ExcelApi.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\NetOffice.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\OfficeApi.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\VBIDEApi.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\Antlr3.Runtime.pdb
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\Microsoft.Owin.Security.xml
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\System.Net.Http.Formatting.xml
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\System.Web.Optimization.xml
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\System.Web.Razor.xml
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\ExcelApi.xml
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\NetOffice.xml
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\OfficeApi.xml
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\VBIDEApi.xml
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\System.Web.Helpers.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\System.Web.Routing.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\System.Web.Helpers.xml
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\ExcelProcessor.dll
+C:\CalcZd\CalculatorZd\CalculatorZd\bin\ExcelProcessor.pdb

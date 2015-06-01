@@ -1,0 +1,17 @@
+C:\CalcZd\CalculatorZd\ExcelProcessor\obj\Debug\ExcelProcessor.csprojResolveAssemblyReference.cache
+C:\CalcZd\CalculatorZd\ExcelProcessor\bin\Debug\ExcelProcessor.dll
+C:\CalcZd\CalculatorZd\ExcelProcessor\bin\Debug\ExcelProcessor.pdb
+C:\CalcZd\CalculatorZd\ExcelProcessor\obj\Debug\ExcelProcessor.dll
+C:\CalcZd\CalculatorZd\ExcelProcessor\obj\Debug\ExcelProcessor.pdb
+C:\CalcZd\CalculatorZd\ExcelProcessor\bin\Debug\log4net.dll
+C:\CalcZd\CalculatorZd\ExcelProcessor\bin\Debug\log4net.xml
+C:\CalcZd\CalculatorZd\ExcelProcessor\bin\Debug\Common.Api.dll
+C:\CalcZd\CalculatorZd\ExcelProcessor\bin\Debug\BO.dll
+C:\CalcZd\CalculatorZd\ExcelProcessor\bin\Debug\Localization.WebResources.dll
+C:\CalcZd\CalculatorZd\ExcelProcessor\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\CalcZd\CalculatorZd\ExcelProcessor\bin\Debug\Newtonsoft.Json.dll
+C:\CalcZd\CalculatorZd\ExcelProcessor\bin\Debug\Common.Api.pdb
+C:\CalcZd\CalculatorZd\ExcelProcessor\bin\Debug\BO.pdb
+C:\CalcZd\CalculatorZd\ExcelProcessor\bin\Debug\Localization.WebResources.pdb
+C:\CalcZd\CalculatorZd\ExcelProcessor\bin\Debug\Newtonsoft.Json.xml
+C:\CalcZd\CalculatorZd\ExcelProcessor\bin\Debug\DocumentFormat.OpenXml.dll

@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?><pex id="{378cfa02-3912-489a-a43b-ff6c1a6612d6}" creationTime="2014-10-09 22:15:36Z" configuration="PortableTestLibrary!\Class1!\*" created="2014-10-09 22:15:36Z" pexVersion="1.0.0.0" xml="C:\CalcZd\CalculatorZd\PortableTestLibrary\bin\Debug\reports\141010.021536.4020.pex\report.per" html="C:\CalcZd\CalculatorZd\PortableTestLibrary\bin\Debug\reports\141010.021536.4020.pex\report.html"><environment commandLine="&quot;C:\Users\nikolay\AppData\Local\Microsoft\VisualStudio\12.0\Extensions\yaxwa0rg.lhr\Microsoft.Pex.x86.exe&quot; C:\CalcZd\CalculatorZd\PortableTestLibrary\bin\Debug\PortableTestLibrary.dll /d /mmf:M|Sum!|i|3 /nf:PortableTestLibrary! /tf:Class1! /erm:LazyWizard /ac /ia:System.Collections.Concurrent;System.Collections;System.ComponentModel.Annotations;System.ComponentModel.DataAnnotations;System.ComponentModel;System.ComponentModel.EventBasedAsync;System.Diagnostics.Contracts;System.Diagnostics.Debug;System.Diagnostics.Tools;System.Diagnostics.Tracing;System.Dynamic.Runtime;System.Globalization;System.IO.Compression;System.IO;System.Linq;System.Linq.Expressions;System.Linq.Parallel;System.Linq.Queryable;System.Net;System.Net.Http;System.Net.NetworkInformation;System.Net.Primitives;System.Net.Requests;System.Numerics;System.ObjectModel;System.Reflection.Context;System.Reflection;System.Reflection.Extensions;System.Reflection.Primitives;System.Resources.ResourceManager;System.Runtime;System.Runtime.Extensions;System.Runtime.InteropServices;System.Runtime.InteropServices.WindowsRuntime;System.Runtime.Numerics;System.Runtime.Serialization;System.Runtime.Serialization.Json;System.Runtime.Serialization.Primitives;System.Runtime.Serialization.Xml;System.Security.Principal;System.ServiceModel;System.ServiceModel.Duplex;System.ServiceModel.Http;System.ServiceModel.NetTcp;System.ServiceModel.Primitives;System.ServiceModel.Security;System.ServiceModel.Web;System.Text.Encoding;System.Text.Encoding.Extensions;System.Text.RegularExpressions;System.Threading;System.Threading.Tasks;System.Threading.Tasks.Parallel;System.Windows;System.Xml.ReaderWriter;System.Xml.Serialization;System.Xml.XDocument;System.Xml.XmlSerializer /x86 /nor /rl:Xml /ro:C:\CalcZd\CalculatorZd\PortableTestLibrary\bin\Debug\reports /tan:PortableTestLibrary.Tests /testf:Direct /testl:cs /testp:C:\CalcZd\CalculatorZd\PortableTestLibrary\PortableTestLibrary.csproj /testpnoup /skiptest" machineName="HOME-PC" osVersion="Microsoft Windows NT 6.2.9200.0" processorCount="4" clrVersion="4.0.30319.34209" bitness="x86" user="nikolay"><envVars><envVar name="HOMEPATH" value="\Users\nikolay"/>
+<envVar name="COMPUTERNAME" value="HOME-PC"/>
+<envVar name="windir" value="C:\WINDOWS"/>
+<envVar name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+<envVar name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 58 Stepping 9, GenuineIntel"/>
+<envVar name="IIS_SITES_HOME" value="C:\Users\nikolay\Documents\My Web Sites"/>
+<envVar name="VisualStudioDir" value="C:\Users\nikolay\Documents\Visual Studio 2013"/>
+<envVar name="SESSIONNAME" value="Console"/>
+<envVar name="VisualStudioEdition" value="Microsoft Visual Studio Ultimate 2013"/>
+<envVar name="IIS_DRIVE" value="C:"/>
+<envVar name="PROCESSOR_REVISION" value="3a09"/>
+<envVar name="CLRMONITOR_INSTRUMENT_TYPES_EXCLUSIONS" value=""/>
+<envVar name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+<envVar name="PkgDefApplicationConfigFile" value="C:\Users\nikolay\AppData\Local\Microsoft\VisualStudio\12.0\devenv.exe.config"/>
+<envVar name="VS120COMNTOOLS" value="C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\Tools\"/>
+<envVar name="CLRMONITOR_CLSID" value="{C1DAAFC4-10C6-4838-9F89-435E2120F5F1}"/>
+<envVar name="SystemDrive" value="C:"/>
+<envVar name="TMP" value="C:\Users\nikolay\AppData\Local\Temp"/>
+<envVar name="TEMP" value="C:\Users\nikolay\AppData\Local\Temp"/>
+<envVar name="LOCALAPPDATA" value="C:\Users\nikolay\AppData\Local"/>
+<envVar name="pex_wait_for_server_channel" value="1"/>
+<envVar name="CLRMONITOR_PROTECT_TYPES" value=""/>
+<envVar name="ERLANG_HOME" value="C:\Program Files\erl5.10.3"/>
+<envVar name="CLRMONITOR_INITIALIZED" value="0xb"/>
+<envVar name="Platform" value="MCD"/>
+<envVar name="ComSpec" value="C:\WINDOWS\system32\cmd.exe"/>
+<envVar name="CommonProgramFiles" value="C:\Program Files (x86)\Common Files"/>
+<envVar name="CLRMONITOR_ERASE_FINALIZER_TYPES" value=""/>
+<envVar name="PROCESSOR_LEVEL" value="6"/>
+<envVar name="NUMBER_OF_PROCESSORS" value="4"/>
+<envVar name="VisualStudioVersion" value="12.0"/>
+<envVar name="IIS_BIN" value="C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE"/>
+<envVar name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+<envVar name="PUBLIC" value="C:\Users\Public"/>
+<envVar name="CLRMONITOR_INSTRUMENT_NAMESPACES_EXCLUSIONS" value=""/>
+<envVar name="CLRMONITOR_FLAGS" value=""/>
+<envVar name="USERDOMAIN_ROAMINGPROFILE" value="HOME-PC"/>
+<envVar name="PCBRAND" value="Pavilion"/>
+<envVar name="pex_instrumentation" value="1"/>
+<envVar name="COR_PROFILER_PATH" value="C:\Users\nikolay\AppData\Local\Microsoft\VisualStudio\12.0\Extensions\yaxwa0rg.lhr\Microsoft.ExtendedReflection.ClrMonitor.X86.dll"/>
+<envVar name="asl.log" value="Destination=file"/>
+<envVar name="CLRMONITOR_INSTRUMENT_TYPES" value="System.Array,System.Array+ArrayEnumerator,System.Array+FunctorComparer`1,System.Array+SZArrayEnumerator,System.Array+SorterGenericArray,System.Array+SorterObjectArray,System.Boolean,System.Byte,System.Char,System.CharEnumerator,System.ComponentModel.Component,System.ComponentModel.Container,System.ComponentModel.Container+Site,System.Convert,System.Currency,System.DateTime,System.DateTimeOffset,System.Decimal,System.Diagnostics.Assert,System.Double,System.Globalization.CharUnicodeInfo,System.Globalization.CultureTableRecord,System.Globalization.TextInfo,System.Guid,System.IO.MemoryStream,System.IO.Stream,System.IO.StreamReader,System.IO.StreamWriter,System.IO.StringReader,System.IO.StringWriter,System.Int16,System.Int32,System.Int64,System.Lazy`1,System.Lazy`1+Boxed,System.Lazy`1+LazyInternalExceptionHolder,System.Math,System.Nullable,System.Nullable`1,System.OrdinalComparer,System.SByte,System.SZArrayHelper,System.SZArrayHelper+SZGenericArrayEnumerator`1,System.Single,System.String,System.StringComparer,System.Text.ASCIIEncoding,System.Text.DecoderNLS,System.Text.Encoding,System.Text.UTF8Encoding,System.TimeSpan,System.Tuple,System.Tuple`1,System.Tuple`2,System.Tuple`3,System.Tuple`4,System.Tuple`5,System.Tuple`6,System.Tuple`7,System.Tuple`8,System.UInt16,System.UInt32,System.UInt64,System.Xml.XmlTextWriter,System.Xml.XmlTextWriter+Namespace,System.Xml.XmlTextWriter+NamespaceState,System.Xml.XmlTextWriter+SpecialAttr,System.Xml.XmlTextWriter+State,System.Xml.XmlTextWriter+TagInfo,System.Xml.XmlTextWriter+Token,System.Xml.XmlWriter,System.Xml.XmlWriter+&lt;WriteAttributeStringAsyncHelper&gt;d__0,System.Xml.XmlWriter+&lt;WriteAttributesAsync&gt;d__7,System.Xml.XmlWriter+&lt;WriteElementStringAsync&gt;d__20,System.Xml.XmlWriter+&lt;WriteLocalNamespacesAsync&gt;d__23,System.Xml.XmlWriter+&lt;WriteNodeAsync&gt;d__19,System.Xml.XmlWriter+&lt;WriteNodeAsync_CallAsyncReader&gt;d__10,System.Xml.XmlWriter+&lt;WriteNodeAsync_CallSyncReader&gt;d__a,System.Xml.XmlWriter+&lt;WriteQualifiedNameAsync&gt;d__3,__Box`1,__SzArrayHelper`1"/>
+<envVar name="ProgramData" value="C:\ProgramData"/>
+<envVar name="ProgramW6432" value="C:\Program Files"/>
+<envVar name="ProgramFiles" value="C:\Program Files (x86)"/>
+<envVar name="CLRMONITOR_ERASE_CCTOR_TYPES" value=""/>
+<envVar name="FP_NO_HOST_CHECK" value="NO"/>
+<envVar name="OnlineServices" value="Online Services"/>
+<envVar name="pex_clientid" value="pex10940_1"/>
+<envVar name="IIS_USER_HOME" value="C:\Users\nikolay\Documents\IISExpress"/>
+<envVar name="SystemRoot" value="C:\WINDOWS"/>
+<envVar name="CLRMONITOR_PROTECT_ALL_CCTORS" value="1"/>
+<envVar name="pex_server_channel" value="pex10940"/>
+<envVar name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+<envVar name="PROCESSOR_ARCHITEW6432" value="AMD64"/>
+<envVar name="LOGONSERVER" value="\\MicrosoftAccount"/>
+<envVar name="USERPROFILE" value="C:\Users\nikolay"/>
+<envVar name="MSBuildLoadMicrosoftTargetsReadOnly" value="true"/>
+<envVar name="CLRMONITOR_SUBSTITUTIONS" value="C:\Users\nikolay\AppData\Local\Microsoft\VisualStudio\12.0\Extensions\yaxwa0rg.lhr\Microsoft.ExtendedReflection.Reasoning.dll"/>
+<envVar name="VSLANG" value="1033"/>
+<envVar name="USERDOMAIN" value="HOME-PC"/>
+<envVar name="APPDATA" value="C:\Users\nikolay\AppData\Roaming"/>
+<envVar name="HOMEDRIVE" value="C:"/>
+<envVar name="PSModulePath" value="C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\"/>
+<envVar name="VS110COMNTOOLS" value="C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\Tools\"/>
+<envVar name="USERNAME" value="nikolay"/>
+<envVar name="COR_PROFILER" value="{C1DAAFC4-10C6-4838-9F89-435E2120F5F1}"/>
+<envVar name="PROCESSOR_ARCHITECTURE" value="x86"/>
+<envVar name="CLRMONITOR_INSTRUMENT_ASSEMBLIES_EXCLUSIONS" value="Microsoft.QualityTools.Testing.Fakes"/>
+<envVar name="OS" value="Windows_NT"/>
+<envVar name="CLRMONITOR_INSTRUMENT_NAMESPACES" value="System.Collections,System.Collections.Generic,System.Collections.ObjectModel,System.Collections.Specialized,System.Diagnostics.Contracts"/>
+<envVar name="Path" value="C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\HP SimplePass\;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;c:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\IDE\PrivateAssemblies\;C:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files (x86)\Microsoft SDKs\TypeScript\1.0\;C:\Program Files\Microsoft\Web Platform Installer\"/>
+<envVar name="CLRMONITOR_INSTRUMENT_ASSEMBLIES" value="Microsoft.Contracts,Microsoft.VisualBasic,Microsoft.VisualStudio.QualityTools.UnitTestFramework,PortableTestLibrary,PortableTestLibrary.Tests,System,System.Collections,System.Collections.Concurrent,System.ComponentModel,System.ComponentModel.Annotations,System.ComponentModel.DataAnnotations,System.ComponentModel.EventBasedAsync,System.Core,System.Diagnostics.Contracts,System.Diagnostics.Debug,System.Diagnostics.Tools,System.Diagnostics.Tracing,System.Dynamic.Runtime,System.Globalization,System.IO,System.IO.Compression,System.Linq,System.Linq.Expressions,System.Linq.Parallel,System.Linq.Queryable,System.Net,System.Net.Http,System.Net.NetworkInformation,System.Net.Primitives,System.Net.Requests,System.Numerics,System.ObjectModel,System.Reflection,System.Reflection.Context,System.Reflection.Extensions,System.Reflection.Primitives,System.Resources.ResourceManager,System.Runtime,System.Runtime.Extensions,System.Runtime.InteropServices,System.Runtime.InteropServices.WindowsRuntime,System.Runtime.Numerics,System.Runtime.Serialization,System.Runtime.Serialization.Json,System.Runtime.Serialization.Primitives,System.Runtime.Serialization.Xml,System.Security.Principal,System.ServiceModel,System.ServiceModel.Duplex,System.ServiceModel.Http,System.ServiceModel.NetTcp,System.ServiceModel.Primitives,System.ServiceModel.Security,System.ServiceModel.Web,System.Text.Encoding,System.Text.Encoding.Extensions,System.Text.RegularExpressions,System.Threading,System.Threading.Tasks,System.Threading.Tasks.Parallel,System.Web,System.Windows,System.Xml.ReaderWriter,System.Xml.Serialization,System.Xml.XDocument,System.Xml.XmlSerializer,xunit"/>
+<envVar name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+</envVars>
+</environment>
+<settings/>
+<reflection><log level="message" time="2014-10-09 22:15:37Z" category="tests" message="symbol test hasher not supported: no symbols manager present"/>
+<log level="message" time="2014-10-09 22:15:37Z" category="tests" message="testhasher Microsoft.Pex.Engine.TestGeneration.PexSymbolTestHasher not supported"/>
+</reflection>
+<assembly name="PortableTestLibrary" version="1.0.0.0" fileVersion="1.0.0.0" fullName="PortableTestLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" location="C:\CalcZd\CalculatorZd\PortableTestLibrary\bin\Debug\PortableTestLibrary.dll" fileName="PortableTestLibrary.dll"><settings testFramework="Direct" ignoreAppConfig="True" testLanguage="cs"/>
+<focus type="Microsoft.Pex.Framework.Focus.PexFocusOnAssemblyAttribute" typeName="PexFocusOnAssemblyAttribute" token="20001d2" description="Microsoft.Pex.Framework.Focus.PexFocusOnAssemblyAttribute" searchPriority="lowest" coverage="true"><focusedAssembly name="System" version="4.0.0.0" fileVersion="4.0.30319.34209" fullName="System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" location="C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll" fileName="System.dll"/>
+</focus>
+<focus type="Microsoft.Pex.Framework.Focus.PexFocusOnAssemblyAttribute" typeName="PexFocusOnAssemblyAttribute" token="20001d2" description="Microsoft.Pex.Framework.Focus.PexFocusOnAssemblyAttribute" searchPriority="lowest" coverage="true"><focusedAssembly name="System.Data" version="4.0.0.0" fileVersion="4.0.30319.34209" fullName="System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" location="C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll" fileName="System.Data.dll"/>
+</focus>
+<focus type="Microsoft.Pex.Framework.Focus.PexFocusOnAssemblyAttribute" typeName="PexFocusOnAssemblyAttribute" token="20001d2" description="Microsoft.Pex.Framework.Focus.PexFocusOnAssemblyAttribute" searchPriority="lowest" coverage="true"><focusedAssembly name="System.Web" version="4.0.0.0" fileVersion="4.0.30319.34212" fullName="System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" location="C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Web\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.dll" fileName="System.Web.dll"/>
+</focus>
+<focus type="Microsoft.Pex.Framework.Focus.PexFocusOnAssemblyAttribute" typeName="PexFocusOnAssemblyAttribute" token="20001d2" description="Microsoft.Pex.Framework.Focus.PexFocusOnAssemblyAttribute" searchPriority="lowest" coverage="true"><focusedAssembly name="System.Xml" version="4.0.0.0" fileVersion="4.0.30319.34230" fullName="System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" location="C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll" fileName="System.Xml.dll"/>
+</focus>
+<focus type="Microsoft.Pex.Framework.Focus.PexFocusOnAssemblyAttribute" typeName="PexFocusOnAssemblyAttribute" token="20001d2" description="Microsoft.Pex.Framework.Focus.PexFocusOnAssemblyAttribute" searchPriority="lowest" coverage="true"><focusedAssembly name="mscorlib" version="4.0.0.0" fileVersion="4.0.30319.34209" fullName="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" location="C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorlib.dll" fileName="mscorlib.dll"/>
+</focus>
+<focus type="Microsoft.Pex.Framework.Focus.PexFocusOnAssemblyAttribute" typeName="PexFocusOnAssemblyAttribute" token="20001d2" description="Microsoft.Pex.Framework.Focus.PexFocusOnAssemblyAttribute" searchPriority="lowest" coverage="true"><focusedAssembly name="System.Core" version="4.0.0.0" fileVersion="4.0.30319.34209" fullName="System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" location="C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll" fileName="System.Core.dll"/>
+</focus>
+<focus type="Microsoft.Pex.Framework.Focus.PexFocusOnAssemblyAttribute" typeName="PexFocusOnAssemblyAttribute" token="20001d2" description="Microsoft.Pex.Framework.Focus.PexFocusOnAssemblyAttribute" searchPriority="lowest" coverage="true"><focusedAssembly name="System.Configuration" version="4.0.0.0" fileVersion="4.0.30319.34209" fullName="System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" location="C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll" fileName="System.Configuration.dll"/>
+</focus>
+<focus type="Microsoft.Pex.Framework.Focus.PexFocusOnAssemblyAttribute" typeName="PexFocusOnAssemblyAttribute" token="20001d2" description="Microsoft.Pex.Framework.Focus.PexFocusOnAssemblyAttribute" searchPriority="lowest" coverage="true"><focusedAssembly name="Microsoft.VisualBasic" version="10.0.0.0" fileVersion="10.0.0.0" fullName="Microsoft.VisualBasic, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" location="C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Microsoft.VisualBasic\v4.0_10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualBasic.dll" fileName="Microsoft.VisualBasic.dll"/>
+</focus>
+<coverageFilter type="Microsoft.Pex.Framework.Coverage.PexCoverageFilterAssemblyAttribute+CoverageFilter" typeName="CoverageFilter" token="20001a7" description="system code types from Assembly System"/>
+<coverageFilter type="Microsoft.Pex.Framework.Coverage.PexCoverageFilterAssemblyAttribute+CoverageFilter" typeName="CoverageFilter" token="20001a7" description="system code types from Assembly System.Data"/>
+<coverageFilter type="Microsoft.Pex.Framework.Coverage.PexCoverageFilterAssembliesAttribute+CoverageFilter" typeName="CoverageFilter" token="2000288" description="system code types from assemblies Microsoft.ExtendedReflection.Collections.SafeSet`1[System.String]"/>
+<coverageFilter type="Microsoft.Pex.Framework.Coverage.PexCoverageFilterAssemblyAttribute+CoverageFilter" typeName="CoverageFilter" token="20001a7" description="system code types from Assembly System.Web"/>
+<coverageFilter type="Microsoft.Pex.Engine.Libraries.ContractsLibrary+ContractsRuntimeFilterCoverageAttribute+Filter" typeName="Filter" token="2000253" description="Microsoft.Pex.Engine.Libraries.ContractsLibrary+ContractsRuntimeFilterCoverageAttribute+Filter"/>
+<coverageFilter type="Microsoft.Pex.Framework.Coverage.PexCoverageFilterAssemblyAttribute+CoverageFilter" typeName="CoverageFilter" token="20001a7" description="system code types from Assembly Microsoft.Contracts"/>
+<coverageFilter type="Microsoft.Pex.Framework.Coverage.PexCoverageFilterAssemblyAttribute+CoverageFilter" typeName="CoverageFilter" token="20001a7" description="system code types from Assembly System.Xml"/>
+<coverageFilter type="Microsoft.Pex.Engine.Libraries.PexFrameworkLibrary+PexTestFrameworkCoverageFilterAttribute+CoverageFilter" typeName="CoverageFilter" token="2000160" description="system code types from test framework assemblies "/>
+<coverageFilter type="Microsoft.Pex.Framework.Coverage.PexCoverageFilterAssemblyAttribute+CoverageFilter" typeName="CoverageFilter" token="20001a7" description="system code types from Assembly Microsoft.Pex.Framework"/>
+<coverageFilter type="Microsoft.Pex.Engine.Libraries.PexFrameworkLibrary+PexCoverageFilterCompilerGeneratedMethodsAttribute+CoverageFilter" typeName="CoverageFilter" token="200015b" description="compiler generated methods"/>
+<coverageFilter type="Microsoft.Pex.Framework.Coverage.PexCoverageFilterAssemblyAttribute+CoverageFilter" typeName="CoverageFilter" token="20001a7" description="system code types from Assembly mscorlib"/>
+<coverageFilter type="Microsoft.Pex.Framework.Coverage.PexCoverageFilterAssemblyAttribute+CoverageFilter" typeName="CoverageFilter" token="20001a7" description="system code types from Assembly Microsoft.Pex"/>
+<coverageFilter type="Microsoft.Pex.Framework.Coverage.PexCoverageFilterAssemblyAttribute+CoverageFilter" typeName="CoverageFilter" token="20001a7" description="system code types from Assembly Microsoft.ExtendedReflection"/>
+<coverageFilter type="Microsoft.Pex.Framework.Coverage.PexCoverageFilterAssemblyAttribute+CoverageFilter" typeName="CoverageFilter" token="20001a7" description="system code types from Assembly System.Core"/>
+<coverageFilter type="Microsoft.Pex.Framework.Coverage.PexCoverageFilterAssemblyAttribute+CoverageFilter" typeName="CoverageFilter" token="20001a7" description="system code types from Assembly System.Configuration"/>
+<coverageFilter type="Microsoft.Pex.Framework.Coverage.PexCoverageFilterAssemblyAttribute+CoverageFilter" typeName="CoverageFilter" token="20001a7" description="system code types from Assembly Microsoft.VisualBasic"/>
+<fixture name="Class1Test" type="PortableTestLibrary.Class1Test" typeName="Class1Test" token="2000002" href="fix\PortableTestLibrary.Tests.754.html"><type name="PortableTestLibrary.Class1Test"/>
+<settings typeUnderTest="PortableTestLibrary.Class1"/>
+<exploration shortName="Sum(Class1, Nullable`1&lt;Int32&gt;, Nullable`1&lt;Int32&gt;)" fullName="PortableTestLibrary.Class1Test.Sum(Class1, Nullable`1&lt;Int32&gt;, Nullable`1&lt;Int32&gt;)" isDynamicCode="true"><target name="method System.Int32 PortableTestLibrary.Class1.Sum(System.Nullable`1&lt;System.Int32&gt; a, System.Nullable`1&lt;System.Int32&gt; b)"/>
+<generatedTest id="a38e6e52-a438-462e-bc5c-35394a48d953" index="1" run="1" status="normaltermination" explorationIsDynamicCode="true" generated="true" new="true"/>
+<log level="message" time="2014-10-09 22:15:37Z" category="coverage" message="coverage increased from 0 to 4 blocks (+4) after flipping PortableTestLibrary.Class1.Sum at 0x0008"/>
+<generatedTest id="623f15cb-b0f4-40f4-b900-e25cafe96714" index="2" run="2" status="normaltermination" explorationIsDynamicCode="true" generated="true" new="true"/>
+<log level="message" time="2014-10-09 22:15:38Z" category="coverage" message="coverage increased from 4 to 6 blocks (+2) after flipping PortableTestLibrary.Class1.Sum at 0x0008"/>
+<generatedTest id="4d3867e7-0c61-4194-94b1-260f93cbcdf9" index="3" run="3" status="normaltermination" explorationIsDynamicCode="true" generated="true" new="true"/>
+<log level="message" time="2014-10-09 22:15:38Z" category="coverage" message="coverage increased from 6 to 14 blocks (+8) after flipping PortableTestLibrary.Class1.Sum at 0x0017"/>
+<uninstrumented methodDisplayName="System.Void System.ThrowHelper.ThrowInvalidOperationException(System.ExceptionResource resource)" declaringTypeDisplayName="System.ThrowHelper" methodShortDisplayName="ThrowHelper.ThrowInvalidOperationException(ExceptionResource)" wikiTopic="Uninstrumented Method Called"/>
+<generatedTest id="74cb74ca-5e7c-4463-a012-b427255b928b" index="4" run="4" exceptionState="unexpected" status="exception" explorationIsDynamicCode="true" failed="true" failureText="Exception not validated by PexAllowedExceptionFromTypeUnderTest(typeof(ArgumentException), AcceptExceptionSubtypes), PexAllowedExceptionFromTypeUnderTest(typeof(InvalidOperationException)), documented." generated="true" new="true"/>
+<log level="message" time="2014-10-09 22:15:38Z" category="coverage" message="coverage increased from 14 to 15 blocks (+1) after flipping PortableTestLibrary.Class1.Sum at 0x0030"/>
+<coverage domain="usercodeundertest" unit="block" covered="15" total="15" coveredRatio="1"/>
+<result name="Sum(Class1, Nullable`1&lt;Int32&gt;, Nullable`1&lt;Int32&gt;)" state="success" duration="1.07796548561116"/>
+<duration start="2014-10-09 22:15:37Z" end="2014-10-09 22:15:38Z" seconds="1.0977291"/>
+</exploration>
+<coverage domain="usercodeundertest" unit="block" covered="15" total="15" coveredRatio="1"/>
+<duration start="2014-10-09 22:15:37Z" end="2014-10-09 22:15:38Z" seconds="1.1297516"/>
+</fixture>
+<coverage domain="usercodeundertest" unit="block" covered="15" total="15" coveredRatio="1"/>
+<duration start="2014-10-09 22:15:37Z" end="2014-10-09 22:15:38Z" seconds="1.2928745"/>
+<frameTreeRef exceptionCount="1"/>
+</assembly>
+<duration start="2014-10-09 22:15:36Z" end="2014-10-09 22:15:38Z" seconds="1.7001435"/>
+<background/>
+</pex>
