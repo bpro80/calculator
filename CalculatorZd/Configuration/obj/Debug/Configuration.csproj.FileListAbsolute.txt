@@ -11,3 +11,8 @@ C:\CalcZd\CalculatorZd\Configuration\bin\Debug\Configuration.dll
 C:\CalcZd\CalculatorZd\Configuration\bin\Debug\Configuration.pdb
 C:\CalcZd\CalculatorZd\Configuration\obj\Debug\Configuration.dll
 C:\CalcZd\CalculatorZd\Configuration\obj\Debug\Configuration.pdb
+C:\GitRepository\calculator2\CalculatorZd\Configuration\bin\Debug\Configuration.dll
+C:\GitRepository\calculator2\CalculatorZd\Configuration\bin\Debug\Configuration.pdb
+C:\GitRepository\calculator2\CalculatorZd\Configuration\obj\Debug\Configuration.csprojResolveAssemblyReference.cache
+C:\GitRepository\calculator2\CalculatorZd\Configuration\obj\Debug\Configuration.dll
+C:\GitRepository\calculator2\CalculatorZd\Configuration\obj\Debug\Configuration.pdb

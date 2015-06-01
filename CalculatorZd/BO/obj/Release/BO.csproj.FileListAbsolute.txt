@@ -12,3 +12,10 @@ C:\CalcZd — копия — копия\CalculatorZd\BO\obj\Release\BO.pdb
 C:\CalcZd — копия — копия\CalculatorZd\BO\bin\Release\Newtonsoft.Json.dll
 C:\CalcZd — копия — копия\CalculatorZd\BO\bin\Release\Newtonsoft.Json.xml
 C:\CalcZd\CalculatorZd\BO\obj\Release\BO.csprojResolveAssemblyReference.cache
+C:\GitRepository\calculator2\CalculatorZd\BO\bin\Release\BO.dll
+C:\GitRepository\calculator2\CalculatorZd\BO\bin\Release\BO.pdb
+C:\GitRepository\calculator2\CalculatorZd\BO\bin\Release\Newtonsoft.Json.dll
+C:\GitRepository\calculator2\CalculatorZd\BO\bin\Release\Newtonsoft.Json.xml
+C:\GitRepository\calculator2\CalculatorZd\BO\obj\Release\BO.csprojResolveAssemblyReference.cache
+C:\GitRepository\calculator2\CalculatorZd\BO\obj\Release\BO.dll
+C:\GitRepository\calculator2\CalculatorZd\BO\obj\Release\BO.pdb

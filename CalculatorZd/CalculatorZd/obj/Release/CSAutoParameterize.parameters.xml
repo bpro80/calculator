@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
-  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=home-pc\localdb;Initial Catalog=CalcDb;Integrated Security=True" tags="SqlConnectionString">
-    <parameterEntry kind="XmlFile" scope="C:\\CalcZd\\CalculatorZd\\CalculatorZd\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Строка подключения в web.config, используемая приложением для доступа к базе данных." defaultValue="Data Source=home-pc\localdb;Initial Catalog=CalcDb;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\GitRepository\\calculator2\\CalculatorZd\\CalculatorZd\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
   </parameter>
-  <parameter name="local-Web.config Connection String" description="local Connection String used in web.config by the application to access the database." defaultValue="Data Source=home-pc\localdb;Initial Catalog=CalcDb;Integrated Security=True" tags="SqlConnectionString">
-    <parameterEntry kind="XmlFile" scope="C:\\CalcZd\\CalculatorZd\\CalculatorZd\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='local']/@connectionString" />
+  <parameter name="local-Web.config Connection String" description="local Строка подключения в web.config, используемая приложением для доступа к базе данных." defaultValue="Data Source=home-pc\localdb;Initial Catalog=CalcDb;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\GitRepository\\calculator2\\CalculatorZd\\CalculatorZd\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='local']/@connectionString" />
   </parameter>
 </parameters>

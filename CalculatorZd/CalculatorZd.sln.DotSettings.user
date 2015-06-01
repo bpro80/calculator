@@ -6,6 +6,7 @@
   &lt;Assembly Path="C:\CalcZd — копия — копия\CalculatorZd\packages\Microsoft.AspNet.WebApi.Client.5.2.2\lib\net45\System.Net.Http.Formatting.dll" /&gt;&#xD;
   &lt;Assembly Path="C:\Windows\Microsoft.NET\assembly\GAC_MSIL\DocumentFormat.OpenXml\v4.0_2.5.5631.0__31bf3856ad364e35\DocumentFormat.OpenXml.dll" /&gt;&#xD;
   &lt;Assembly Path="C:\CalcZd\CalculatorZd\packages\Microsoft.AspNet.WebApi.Core.5.0.0\lib\net45\System.Web.Http.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\GitRepository\calculator2\CalculatorZd\packages\Microsoft.AspNet.WebApi.Client.5.2.2\lib\net45\System.Net.Http.Formatting.dll" /&gt;&#xD;
 &lt;/AssemblyExplorer&gt;</s:String>
 	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=88527961447846A2A94A0F47518C4489/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=88527961447846A2A94A0F47518C4489/Name/@EntryValue">All tests from WebSiteTests</s:String>

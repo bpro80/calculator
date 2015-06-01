@@ -18,3 +18,10 @@ C:\CalcZd\CalculatorZd\BO\bin\Debug\Newtonsoft.Json.xml
 C:\CalcZd\CalculatorZd\BO\obj\Debug\BO.dll
 C:\CalcZd\CalculatorZd\BO\obj\Debug\BO.pdb
 C:\CalcZd\CalculatorZd\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\GitRepository\calculator2\CalculatorZd\BO\bin\Debug\BO.dll
+C:\GitRepository\calculator2\CalculatorZd\BO\bin\Debug\BO.pdb
+C:\GitRepository\calculator2\CalculatorZd\BO\bin\Debug\Newtonsoft.Json.dll
+C:\GitRepository\calculator2\CalculatorZd\BO\bin\Debug\Newtonsoft.Json.xml
+C:\GitRepository\calculator2\CalculatorZd\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\GitRepository\calculator2\CalculatorZd\BO\obj\Debug\BO.dll
+C:\GitRepository\calculator2\CalculatorZd\BO\obj\Debug\BO.pdb

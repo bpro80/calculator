@@ -125,3 +125,29 @@
 2015-05-31 23:29:17,055 [5] BO.Implementation.DictionariesLoader INFO  load dictionary [Собственник вагона по ЕГРПО], time: 31.05.2015 23:29:17, count:824
 2015-05-31 23:29:17,454 [5] BO.Implementation.DictionariesLoader INFO  load dictionary [Арендатор вагона по ГВЦ], time: 31.05.2015 23:29:17, count:337
 2015-05-31 23:29:17,492 [5] BO.Implementation.DictionariesLoader INFO  Load dictionaries finished
+2015-06-02 00:55:16,752 [1] CalculatorZd.MvcApplication INFO  Application start
+2015-06-02 01:15:07,919 [1] CalculatorZd.MvcApplication INFO  Application start
+2015-06-02 01:16:29,181 [1] CalculatorZd.MvcApplication INFO  Application start
+2015-06-02 01:16:30,785 [1] CalculatorZd.MvcApplication INFO  Init server properties
+2015-06-02 01:16:36,515 [5] BO.Implementation.DictionariesLoader INFO  Load dictionaries
+2015-06-02 01:16:40,502 [5] BO.Implementation.DictionariesLoader INFO  load dictionary [Ранее перевозимый груз], time: 02.06.2015 1:16:40, count:1
+2015-06-02 01:16:42,489 [5] BO.Implementation.DictionariesLoader INFO  load dictionary [Код Груза] + ' | '+ [Наименование груза], time: 02.06.2015 1:16:42, count:1107
+2015-06-02 01:16:43,444 [5] BO.Implementation.DictionariesLoader INFO  load dictionary [Тоннажность контейнера], time: 02.06.2015 1:16:43, count:7
+2015-06-02 01:16:44,409 [5] BO.Implementation.DictionariesLoader INFO  load dictionary [Тип груза], time: 02.06.2015 1:16:44, count:36
+2015-06-02 01:16:45,291 [5] BO.Implementation.DictionariesLoader INFO  load dictionary [Вид перевозки], time: 02.06.2015 1:16:45, count:4
+2015-06-02 01:17:13,082 [5] BO.Implementation.DictionariesLoader INFO  load dictionary [Грузоотправитель(код)] + ' | '+ [Грузоотправитель наим по ЕГРПО], time: 02.06.2015 1:17:13, count:1969
+2015-06-02 01:17:35,956 [5] BO.Implementation.DictionariesLoader INFO  load dictionary [Грузополучатель(код)] + ' | '+ [Грузополучатель наим по ЕГРПО], time: 02.06.2015 1:17:35, count:4483
+2015-06-02 01:17:45,115 [5] BO.Implementation.DictionariesLoader INFO  load dictionary StationsSendingFilterNameCacheKey, time: 02.06.2015 1:17:45, count:1477
+2015-06-02 01:17:54,082 [5] BO.Implementation.DictionariesLoader INFO  load dictionary StationsDeliveringFilterNameCacheKey, time: 02.06.2015 1:17:54, count:1968
+2015-06-02 01:17:54,918 [5] BO.Implementation.DictionariesLoader INFO  load dictionary [Государство отправления], time: 02.06.2015 1:17:54, count:54
+2015-06-02 01:17:55,588 [5] BO.Implementation.DictionariesLoader INFO  load dictionary [Государство назначения], time: 02.06.2015 1:17:55, count:78
+2015-06-02 01:17:56,159 [5] BO.Implementation.Caching.Provider.HttpCache INFO   OnRemoveCallback called  key : [Государство назначения] 
+2015-06-02 01:17:56,159 [5] BO.Implementation.DictionariesLoader INFO  load dictionary [Государство назначения], time: 02.06.2015 1:17:56, count:78
+2015-06-02 01:17:56,638 [5] BO.Implementation.DictionariesLoader INFO  load dictionary [Дорога отправления], time: 02.06.2015 1:17:56, count:17
+2015-06-02 01:17:57,082 [5] BO.Implementation.DictionariesLoader INFO  load dictionary [Дорога назначения], time: 02.06.2015 1:17:57, count:18
+2015-06-02 01:17:57,606 [5] BO.Implementation.DictionariesLoader INFO  load dictionary [Субъект РФ отправления], time: 02.06.2015 1:17:57, count:79
+2015-06-02 01:17:58,149 [5] BO.Implementation.DictionariesLoader INFO  load dictionary [Субъект РФ назначения], time: 02.06.2015 1:17:58, count:81
+2015-06-02 01:17:58,862 [5] BO.Implementation.DictionariesLoader INFO  load dictionary [Плательщик жд тарифа], time: 02.06.2015 1:17:58, count:1711
+2015-06-02 01:17:59,378 [5] BO.Implementation.DictionariesLoader INFO  load dictionary [Собственник вагона по ЕГРПО], time: 02.06.2015 1:17:59, count:824
+2015-06-02 01:17:59,841 [5] BO.Implementation.DictionariesLoader INFO  load dictionary [Арендатор вагона по ГВЦ], time: 02.06.2015 1:17:59, count:337
+2015-06-02 01:17:59,911 [5] BO.Implementation.DictionariesLoader INFO  Load dictionaries finished

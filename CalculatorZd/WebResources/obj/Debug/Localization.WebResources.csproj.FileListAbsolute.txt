@@ -33,3 +33,12 @@ C:\CalcZd\CalculatorZd\WebResources\obj\Debug\Localization.WebResources.csproj.G
 C:\CalcZd\CalculatorZd\WebResources\obj\Debug\Localization.WebResources.dll
 C:\CalcZd\CalculatorZd\WebResources\obj\Debug\Localization.WebResources.pdb
 C:\CalcZd\CalculatorZd\WebResources\obj\Debug\Localization.WebResources.csprojResolveAssemblyReference.cache
+C:\GitRepository\calculator2\CalculatorZd\WebResources\bin\Localization.WebResources.dll.config
+C:\GitRepository\calculator2\CalculatorZd\WebResources\bin\Localization.WebResources.dll
+C:\GitRepository\calculator2\CalculatorZd\WebResources\bin\Localization.WebResources.pdb
+C:\GitRepository\calculator2\CalculatorZd\WebResources\obj\Debug\Localization.WebResources.csprojResolveAssemblyReference.cache
+C:\GitRepository\calculator2\CalculatorZd\WebResources\obj\Debug\Localization.WebResources.WebResources.AccountResource.resources
+C:\GitRepository\calculator2\CalculatorZd\WebResources\obj\Debug\Localization.WebResources.Common.Strings.resources
+C:\GitRepository\calculator2\CalculatorZd\WebResources\obj\Debug\Localization.WebResources.csproj.GenerateResource.Cache
+C:\GitRepository\calculator2\CalculatorZd\WebResources\obj\Debug\Localization.WebResources.dll
+C:\GitRepository\calculator2\CalculatorZd\WebResources\obj\Debug\Localization.WebResources.pdb
